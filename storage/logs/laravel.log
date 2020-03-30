@@ -1,0 +1,267 @@
+[2020-03-30 07:09:02] local.ERROR: Command "make:migrationuser" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:migrationuser\" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php:644)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(228): Symfony\\Component\\Console\\Application->find('make:migrationu...')
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2020-03-30 07:09:23] local.ERROR: The "-f" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"-f\" option does not exist. at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Input\\ArgvInput.php:117)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Input\\ArgvInput.php(99): Symfony\\Component\\Console\\Input\\ArgvInput->parseShortOptionSet('fresh')
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Input\\ArgvInput.php(80): Symfony\\Component\\Console\\Input\\ArgvInput->parseShortOption('-fresh')
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Input\\Input.php(55): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(214): Symfony\\Component\\Console\\Input\\Input->bind(Object(Symfony\\Component\\Console\\Input\\InputDefinition))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(912): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(264): Symfony\\Component\\Console\\Application->doRunCommand(Object(Symfony\\Component\\Console\\Command\\ListCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#9 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2020-03-30 07:10:15] local.ERROR: Command "make:migrationuser" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:migrationuser\" is not defined.
+
+Did you mean one of these?
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:seeder
+    make:test at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php:644)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(228): Symfony\\Component\\Console\\Application->find('make:migrationu...')
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2020-03-30 07:21:59] local.ERROR: Method Illuminate\Database\Schema\Blueprint::int does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Database\\Schema\\Blueprint::int does not exist. at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Traits\\Macroable.php:103)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\database\\migrations\\2014_10_12_000000_create_users_table.php(17): Illuminate\\Database\\Schema\\Blueprint->__call('int', Array)
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(166): CreateUsersTable->{closure}(Object(Illuminate\\Database\\Schema\\Blueprint))
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(422): Illuminate\\Database\\Schema\\Builder->Illuminate\\Database\\Schema\\{closure}(Object(Illuminate\\Database\\Schema\\Blueprint))
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(167): tap(Object(Illuminate\\Database\\Schema\\Blueprint), Object(Closure))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Database\\Schema\\Builder->create('users', Object(Closure))
+#5 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\database\\migrations\\2014_10_12_000000_create_users_table.php(27): Illuminate\\Support\\Facades\\Facade::__callStatic('create', Array)
+#6 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(392): CreateUsersTable->up()
+#7 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(401): Illuminate\\Database\\Migrations\\Migrator->Illuminate\\Database\\Migrations\\{closure}()
+#8 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(200): Illuminate\\Database\\Migrations\\Migrator->runMigration(Object(CreateUsersTable), 'up')
+#9 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(165): Illuminate\\Database\\Migrations\\Migrator->runUp('C:\\\\xampp\\\\htdocs...', 1, false)
+#10 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(110): Illuminate\\Database\\Migrations\\Migrator->runPending(Array, Array)
+#11 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(72): Illuminate\\Database\\Migrations\\Migrator->run(Array, Array)
+#12 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(541): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}()
+#13 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(81): Illuminate\\Database\\Migrations\\Migrator->usingConnection(NULL, Object(Closure))
+#14 [internal function]: Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#15 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#16 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#19 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#20 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#21 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#22 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#23 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#24 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('migrate', Array, Object(Illuminate\\Console\\OutputStyle))
+#25 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\FreshCommand.php(52): Illuminate\\Console\\Command->call('migrate', Array)
+#26 [internal function]: Illuminate\\Database\\Console\\Migrations\\FreshCommand->handle()
+#27 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#28 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#29 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#30 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#31 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#32 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#33 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#34 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#35 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(912): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#36 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(264): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\FreshCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#41 {main}
+"} 
+[2020-03-30 07:28:09] local.ERROR: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'activity_yesterday' (SQL: create table `daily_scrum` (`id` int not null, `id_users` int not null, `team` text not null, `activity_yesterday` text not null, `activity_today` text not null, `activity_yesterday` text not null, `solution` text not null, `created_at` timestamp null, `updated_at` timestamp null) default character set utf8mb4 collate 'utf8mb4_unicode_ci') {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S21): SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'activity_yesterday' (SQL: create table `daily_scrum` (`id` int not null, `id_users` int not null, `team` text not null, `activity_yesterday` text not null, `activity_today` text not null, `activity_yesterday` text not null, `solution` text not null, `created_at` timestamp null, `updated_at` timestamp null) default character set utf8mb4 collate 'utf8mb4_unicode_ci') at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:669)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(629): Illuminate\\Database\\Connection->runQueryCallback('create table `d...', Array, Object(Closure))
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(464): Illuminate\\Database\\Connection->run('create table `d...', Array, Object(Closure))
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Blueprint.php(97): Illuminate\\Database\\Connection->statement('create table `d...')
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(290): Illuminate\\Database\\Schema\\Blueprint->build(Object(Illuminate\\Database\\MySqlConnection), Object(Illuminate\\Database\\Schema\\Grammars\\MySqlGrammar))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(167): Illuminate\\Database\\Schema\\Builder->build(Object(Illuminate\\Database\\Schema\\Blueprint))
+#5 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Database\\Schema\\Builder->create('daily_scrum', Object(Closure))
+#6 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\database\\migrations\\2020_03_30_071910_daily_scrum.php(25): Illuminate\\Support\\Facades\\Facade::__callStatic('create', Array)
+#7 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(392): DailyScrum->up()
+#8 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(401): Illuminate\\Database\\Migrations\\Migrator->Illuminate\\Database\\Migrations\\{closure}()
+#9 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(200): Illuminate\\Database\\Migrations\\Migrator->runMigration(Object(DailyScrum), 'up')
+#10 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(165): Illuminate\\Database\\Migrations\\Migrator->runUp('C:\\\\xampp\\\\htdocs...', 1, false)
+#11 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(110): Illuminate\\Database\\Migrations\\Migrator->runPending(Array, Array)
+#12 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(72): Illuminate\\Database\\Migrations\\Migrator->run(Array, Array)
+#13 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(541): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}()
+#14 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(81): Illuminate\\Database\\Migrations\\Migrator->usingConnection(NULL, Object(Closure))
+#15 [internal function]: Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#16 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#17 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#19 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#20 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#21 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#22 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#23 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#24 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#25 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('migrate', Array, Object(Illuminate\\Console\\OutputStyle))
+#26 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\FreshCommand.php(52): Illuminate\\Console\\Command->call('migrate', Array)
+#27 [internal function]: Illuminate\\Database\\Console\\Migrations\\FreshCommand->handle()
+#28 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#29 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#30 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#31 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#32 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#33 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#34 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#35 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#36 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(912): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#37 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(264): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\FreshCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#41 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#42 {main}
+
+[previous exception] [object] (PDOException(code: 42S21): SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'activity_yesterday' at C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:463)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(463): PDOStatement->execute()
+#1 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(662): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('create table `d...', Array)
+#2 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(629): Illuminate\\Database\\Connection->runQueryCallback('create table `d...', Array, Object(Closure))
+#3 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(464): Illuminate\\Database\\Connection->run('create table `d...', Array, Object(Closure))
+#4 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Blueprint.php(97): Illuminate\\Database\\Connection->statement('create table `d...')
+#5 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(290): Illuminate\\Database\\Schema\\Blueprint->build(Object(Illuminate\\Database\\MySqlConnection), Object(Illuminate\\Database\\Schema\\Grammars\\MySqlGrammar))
+#6 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Schema\\Builder.php(167): Illuminate\\Database\\Schema\\Builder->build(Object(Illuminate\\Database\\Schema\\Blueprint))
+#7 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Database\\Schema\\Builder->create('daily_scrum', Object(Closure))
+#8 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\database\\migrations\\2020_03_30_071910_daily_scrum.php(25): Illuminate\\Support\\Facades\\Facade::__callStatic('create', Array)
+#9 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(392): DailyScrum->up()
+#10 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(401): Illuminate\\Database\\Migrations\\Migrator->Illuminate\\Database\\Migrations\\{closure}()
+#11 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(200): Illuminate\\Database\\Migrations\\Migrator->runMigration(Object(DailyScrum), 'up')
+#12 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(165): Illuminate\\Database\\Migrations\\Migrator->runUp('C:\\\\xampp\\\\htdocs...', 1, false)
+#13 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(110): Illuminate\\Database\\Migrations\\Migrator->runPending(Array, Array)
+#14 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(72): Illuminate\\Database\\Migrations\\Migrator->run(Array, Array)
+#15 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php(541): Illuminate\\Database\\Console\\Migrations\\MigrateCommand->Illuminate\\Database\\Console\\Migrations\\{closure}()
+#16 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\MigrateCommand.php(81): Illuminate\\Database\\Migrations\\Migrator->usingConnection(NULL, Object(Closure))
+#17 [internal function]: Illuminate\\Database\\Console\\Migrations\\MigrateCommand->handle()
+#18 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#19 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#20 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#21 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#22 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#23 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#24 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#25 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#26 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(56): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#27 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('migrate', Array, Object(Illuminate\\Console\\OutputStyle))
+#28 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Console\\Migrations\\FreshCommand.php(52): Illuminate\\Console\\Command->call('migrate', Array)
+#29 [internal function]: Illuminate\\Database\\Console\\Migrations\\FreshCommand->handle()
+#30 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(32): call_user_func_array(Array, Array)
+#31 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(36): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#32 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(90): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#33 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(34): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#34 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(592): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#35 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(134): Illuminate\\Container\\Container->call(Array)
+#36 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Command\\Command.php(255): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#37 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#38 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(912): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#39 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(264): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Database\\Console\\Migrations\\FreshCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#40 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\symfony\\console\\Application.php(140): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#41 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#42 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(130): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#43 C:\\xampp\\htdocs\\api_Daily_Scrum_Ardhi_Zakhirul\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#44 {main}
+"} 
